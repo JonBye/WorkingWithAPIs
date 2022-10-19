@@ -21,4 +21,4 @@
 <p>The calls wihtin HTTP file can be executed by  clicking "send request" above the call URI, right-click editor -> Send Request OR Ctrl+Alt+R</p>
 
 <h2>Mulitple API Calls within HTTP file</h2>
-<p>You can have multiple API calls but using the '###' seprator</p>
+<p>You can have multiple API calls by using the '###' seprator</p>
